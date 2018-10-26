@@ -17,6 +17,9 @@
             $info = $sql->fetch();
             $convites = $info['convites'];
             echo "Convites restantes: ".$convites;
+            if($convites == 0){
+                echo "<h3 style='color:red';>Usuário não possui mais convites</h3>";
+            }
         }
     } else {
         header("Location: login.php");
