@@ -1,0 +1,24 @@
+{
+  "name": "php_registroporconvite",
+  "version": "1.0.0",
+  "description": "Estudo de PHP - Registro por convite",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgeronimo/php_registroporconvite.git"
+  },
+  "keywords": [
+    "php",
+    "registro",
+    "convite"
+  ],
+  "author": "Rafael Gerônimo",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rafaelgeronimo/php_registroporconvite/issues"
+  },
+  "homepage": "https://github.com/rafaelgeronimo/php_registroporconvite#readme"
+}
